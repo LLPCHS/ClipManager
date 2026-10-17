@@ -8,7 +8,7 @@ This repetitive workflow can also increase the likelihood of mistakes. Users mus
 
 To address this problem, I decided to develop a solution for my own daily use—something that would serve as both a fun project and an opportunity to build a practical tool that solves a real-world issue.
 
-## My goal was to create a **highly optimized, lightweight, minimal, and easy-to-use clipboard management application** that makes copying and reusing multiple items much more convenient. I wanted a solution that would be readily accessible whenever needed, without adding unnecessary complexity or requiring users to navigate through multiple applications and repetitive steps.
+### My goal was to create a **highly optimized, lightweight, minimal, and easy-to-use clipboard management application** that makes copying and reusing multiple items much more convenient. I wanted a solution that would be readily accessible whenever needed, without adding unnecessary complexity or requiring users to navigate through multiple applications and repetitive steps.
 
 Performance and simplicity were key priorities throughout the development process. Since the application is intended to remain running in the background and be available whenever needed, it should consume minimal system resources, remain responsive during extended use, and avoid placing an unnecessary load on the computer—even when the system is handling demanding workloads.
 
